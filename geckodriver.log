@@ -1,0 +1,43 @@
+1721641235866	geckodriver	INFO	Listening on 127.0.0.1:52560
+1721641238906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "525 ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HARSHK~1\\AppData\\Local\\Temp\\rust_mozprofile6XsRss"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1721641240633	Marionette	INFO	Marionette enabled
+1721641240754	Marionette	INFO	Listening on port 52574
+WebDriver BiDi listening on ws://127.0.0.1:52561
+Read port: 52574
+1721641240923	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52561/devtools/browser/b608ee84-8ce3-439b-ae15-f33625e24a35
+JavaScript error: https://www.mca.gov.in/etc.clientlibs/mca/clientlibs/clientlib-site.min.js, line 71: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+1721641270659	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+1721659143893	geckodriver	INFO	Listening on 127.0.0.1:59298
+1721659146753	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "592 ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HARSHK~1\\AppData\\Local\\Temp\\rust_mozprofileMe6uUw"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1721659147394	Marionette	INFO	Marionette enabled
+1721659147550	Marionette	INFO	Listening on port 59307
+WebDriver BiDi listening on ws://127.0.0.1:59299
+Read port: 59307
+1721659147721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59299/devtools/browser/5c0551a4-6c63-4c38-9799-ead6ce69f512
+JavaScript error: https://www.mca.gov.in/etc.clientlibs/mca/clientlibs/clientlib-site.min.js, line 71: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1721659177420	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1721659197784	Marionette	INFO	Stopped listening on port 59307
+Dynamically enable window occlusion 1
